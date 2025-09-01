@@ -13,6 +13,7 @@ app = FastAPI(
 origins = [
     "http://localhost:3000",
     "https://email-frontend-nu.vercel.app",
+    "https://*.vercel.app",
 ]
 
 app.add_middleware(
