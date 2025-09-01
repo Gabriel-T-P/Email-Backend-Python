@@ -15,10 +15,12 @@ Agora a API também suporta **upload de arquivos .txt e .pdf**, extraindo o cont
 - Endpoint `/api/v1/text/` que recebe texto bruto de email e retorna:
   - Categoria (`Produtivo` ou `Improdutivo`)
   - Resposta sugerida
+  - Nível de confiança da classificação
 
 - Endpoint `/api/v1/file/` que permite enviar arquivos `.txt` ou `.pdf` e retorna:
-  - Texto extraído do arquivo
-  - Categoria e resposta sugerida
+  - Categoria (`Produtivo` ou `Improdutivo`)
+  - Resposta sugerida
+  - Nível de confiança da classificação
 
 - Documentação automática via **Swagger UI** em `/docs`.
 
@@ -102,10 +104,6 @@ uvicorn app.main:app --reload
 A aplicação ficará disponível em:
 - **API Root:** http://127.0.0.1:8000  
 - **Swagger Docs:** http://127.0.0.1:8000/docs  
-
-- **Classificação de Texto:** Endpoint `/api/v1/text/` que recebe texto bruto.
-- **Classificação de Arquivos:** Endpoint `/api/v1/file/` que aceita arquivos `.txt` e `.pdf`.
-- **Documentação Interativa:** Interface Swagger UI em `/docs` e ReDoc em `/redoc`.
 
 ---
 
