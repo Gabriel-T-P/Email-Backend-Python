@@ -1,4 +1,4 @@
-import nltk
+# import nltk
 
 def setup_nltk():
     """
@@ -16,4 +16,4 @@ def setup_nltk():
             nltk.download(pkg)
 
 if __name__ == "__main__":
-    setup_nltk()
+    # setup_nltk()

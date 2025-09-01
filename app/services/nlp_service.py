@@ -3,11 +3,11 @@ import re
 # import string
 from PyPDF2 import PdfReader
 # import nltk
-from nltk.corpus import stopwords
-from nltk.stem import SnowballStemmer
+# from nltk.corpus import stopwords
+# from nltk.stem import SnowballStemmer
 
-STOPWORDS = set(stopwords.words("portuguese"))
-STEMMER = SnowballStemmer("portuguese")
+# STOPWORDS = set(stopwords.words("portuguese"))
+# STEMMER = SnowballStemmer("portuguese")
 
 
 def extract_text_from_file(file_bytes: bytes, filename: str) -> str:

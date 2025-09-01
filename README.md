@@ -85,7 +85,7 @@ pip install -r requirements-ia.txt
 
 ### 5. Baixar recursos do NLTK
 Antes de rodar a aplicação pela primeira vez, inicialize os recursos do NLTK:
-Esse passo pode ser ignorado por enquanto.
+Esse passo pode ser ignorado por enquanto, uma vez que NLTK não está sendo usado mais.
 ```bash
 python3 setup_nltk.py
 ```
