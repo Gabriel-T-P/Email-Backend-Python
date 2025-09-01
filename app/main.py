@@ -12,6 +12,7 @@ app = FastAPI(
 # CORS
 origins = [
     "http://localhost:3000",
+    "https://email-frontend-nu.vercel.app",
 ]
 
 app.add_middleware(
