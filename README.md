@@ -142,7 +142,6 @@ project/
 │
 ├── IA/
 │   ├── models/                     # Modelos usados no projeto
-│   ├── results                     # Resultados do treinamento
 │   ├── dataset.csv                 # Dataset utilizado para treinamento do modelo
 │   └── train.ipynb                 # Arquivo Jupyter Notebook com script do treinamento
 │
