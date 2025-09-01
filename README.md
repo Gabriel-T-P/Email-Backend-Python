@@ -1,6 +1,8 @@
 # 📧 Email Classifier API
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Gabriel-T-P/Email-Backend-Python) ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Gabriel-T-P/Email-Backend-Python)
+
+![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 
 Este projeto é uma API construída em **FastAPI** para classificar emails em **Produtivo** ou **Improdutivo** e sugerir respostas automáticas.  
 Agora a API também suporta **upload de arquivos .txt e .pdf**, extraindo o conteúdo e processando-o.
