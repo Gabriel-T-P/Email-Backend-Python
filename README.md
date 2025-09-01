@@ -34,8 +34,8 @@ Agora a API também suporta **upload de arquivos .txt e .pdf**, extraindo o cont
 
 ### 1. Clonar o repositório
 ```bash
-git clone git@github.com:Gabriel-T-P/Email-Backend.git
-cd Email-Backend
+git clone git@github.com:Gabriel-T-P/Email-Backend-Python.git
+cd Email-Backend-Python
 ```
 
 ### 2. Criar e ativar ambiente virtual
