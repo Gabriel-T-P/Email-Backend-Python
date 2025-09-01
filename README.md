@@ -155,6 +155,7 @@ project/
 ├── .env.example                    # Formato do .env
 ├── setup_nltk.py                   # Script para baixar recursos do NLTK
 ├── .flake8                         # Script para regular o lint dessa biblioteca
+├── .python-version                 # especificação da versão do python para deploy no render
 ├── pytest.ini                      # Arquivo de configuração inicial do pytest
 ├── render.yaml                     # Arquivo de configuração de deploy
 ├── requirements.txt                # API
