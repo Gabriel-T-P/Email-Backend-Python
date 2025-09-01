@@ -1,0 +1,861 @@
+text,label
+"Prezados, estou com um problema ao tentar gerar o relatório de vendas do último trimestre. O sistema apresenta o erro '504 Gateway Timeout'. Poderiam verificar, por favor? Fico no aguardo.",produtivo
+"Olá equipe, só passando para agradecer a ajuda de todos no projeto Alpha. O cliente ficou extremamente satisfeito com a entrega! Muito obrigado!",improdutivo
+"Bom dia, você poderia me enviar o link para a documentação da nova API de pagamentos? Preciso integrar com o módulo de faturamento até sexta-feira.",produtivo
+"Feliz aniversário, Carlos! Muitas felicidades, saúde e sucesso neste novo ciclo. Um grande abraço!",improdutivo
+"Gostaria de solicitar acesso de leitura ao banco de dados de produção para o novo analista, João Silva. A justificativa é a necessidade de extrair dados para relatórios gerenciais. Qual o procedimento?",produtivo
+"Pessoal, informamos que o sistema ficará indisponível no próximo sábado, das 14h às 16h, para uma manutenção programada. Agradecemos a compreensão.",improdutivo
+"Olá, Ana. Verifiquei que o caso #8923 ainda está pendente de sua aprovação. Há alguma previsão de quando você conseguirá analisar?",produtivo
+"Parabéns pelo excelente trabalho na apresentação de ontem, ficou fantástico!",improdutivo
+"Com licença, poderiam resetar minha senha de acesso ao portal do cliente? Tentei o 'esqueci minha senha', mas não recebi o email de recuperação.",produtivo
+Obrigado por enviar o relatório. Vou analisar e retorno se tiver alguma dúvida.,improdutivo
+Preciso de ajuda para configurar minha nova estação de trabalho. O segundo monitor não está sendo reconhecido pelo sistema. Onde devo abrir um chamado?,produtivo
+"Segue em anexo a ata da reunião de planejamento realizada hoje. Por favor, confirmem o recebimento.",improdutivo
+Qual é o status da correção do bug reportado no ticket #TICK-4561? O cliente está aguardando uma solução.,produtivo
+"Só para confirmar, nosso encontro para alinhar as próximas etapas está mantido para amanhã às 10h, certo?",produtivo
+Agradeço imensamente pela sua ajuda com o problema no servidor mais cedo. Foi de grande valia!,improdutivo
+"Olá, não estou conseguindo acessar a pasta compartilhada do projeto 'Beta'. Recebo uma mensagem de 'acesso negado'. Podem me conceder a permissão necessária?",produtivo
+"Equipe, a nova política de home office já está disponível para consulta na intranet. Leiam com atenção.",improdutivo
+Poderiam me informar qual a versão do Java instalada no ambiente de homologação? Estou com problemas de compatibilidade na minha máquina local.,produtivo
+Parabéns a todos os envolvidos no lançamento da nova feature! Foi um sucesso!,improdutivo
+Estou com uma dúvida sobre a funcionalidade de exportação de dados. É possível exportar em formato XLS ou apenas em CSV?,produtivo
+"Recebemos seu contato. Seu número de protocolo é 20250830-001. Em breve, um de nossos especialistas entrará em contato.",improdutivo
+"Este E-mail é extremamente importante e precisa de atenção, preciso de mais informações sobre a atividade de ontem.",produtivo
+"Por favor, aprove o orçamento anexo para a compra dos novos equipamentos de rede. O prazo para o fornecedor é até o final do dia.",produtivo
+Lembrete: A reunião mensal de alinhamento de equipe será hoje às 15h na sala de conferências 3.,improdutivo
+O cliente XPTO reportou uma lentidão ao carregar o dashboard principal. Precisamos investigar a causa com urgência. Alguém da equipe de infra pode verificar os logs do servidor?,produtivo
+Gostaria de agendar uma breve chamada para discutirmos os requisitos do novo projeto de BI. Qual seria o melhor horário para você na próxima semana?,produtivo
+"Obrigado pela reunião, foi muito produtiva!",improdutivo
+Este email é importante e preciso tomar ação agora,produtivo
+Não consigo me conectar à VPN da empresa esta manhã. Podem me ajudar a solucionar?,produtivo
+O almoço de confraternização da equipe será na próxima sexta-feira. Em breve enviaremos mais detalhes sobre o local e horário.,improdutivo
+Poderia me esclarecer uma dúvida sobre a regra de negócio RN-052? Não ficou claro para mim se o desconto se aplica a todos os produtos da categoria 'Eletrônicos'.,produtivo
+Confirmando minha presença na palestra de amanhã.,improdutivo
+O build da aplicação falhou no ambiente de testes. Segue o log em anexo. Podem analisar o que ocorreu?,produtivo
+O relatório que você me pediu está em anexo. Me avise se precisar de algum ajuste.,produtivo
+Boas festas e um excelente ano novo para você e sua família!,improdutivo
+"Solicito a criação de um novo usuário para a plataforma de CRM. Nome: 'Fernanda Souza', Perfil: 'Vendedor'.",produtivo
+"Apenas para informar que estarei de férias no período de 15/09 a 30/09. Para assuntos urgentes, favor contatar o colega Marcos.",improdutivo
+Quando teremos a definição sobre a tecnologia que será utilizada no backend do projeto 'Sirius'?,produtivo
+Obrigado por me adicionar ao projeto!,improdutivo
+O acesso do fornecedor ao nosso sistema expirou. É possível renovar por mais 30 dias? Os detalhes estão no chamado #CH-9870.,produtivo
+"Parabéns pela promoção, Mariana! Muito merecido.",improdutivo
+Onde encontro o template padrão para a elaboração do plano de projeto?,produtivo
+"Conforme conversamos, segue a minuta do contrato para sua avaliação. Por favor, me retorne com seus comentários até quarta-feira.",produtivo
+Obrigado a todos que participaram da nossa campanha de doação. Arrecadamos um valor incrível!,improdutivo
+"O sistema de emissão de notas fiscais está offline. Temos urgência na resolução, pois o faturamento do dia está parado. Qual a previsão de retorno?",produtivo
+Gostaria de tirar uma dúvida: o prazo final para a entrega da primeira fase do projeto é dia 10 ou dia 15 do próximo mês?,produtivo
+Este é um e-mail automático para confirmar o recebimento da sua solicitação. Não é necessário respondê-lo.,improdutivo
+"Por gentileza, poderiam reenviar a fatura com vencimento em setembro? Não a localizei em minha caixa de entrada.",produtivo
+Obrigado pela informação.,improdutivo
+Precisamos de uma decisão sobre o layout da página inicial até o final desta semana para não impactar o cronograma do desenvolvedor front-end.,produtivo
+A vaga de Analista de Dados Sr. foi preenchida. Agradecemos o interesse de todos os que se candidataram.,improdutivo
+"A impressão na multifuncional do terceiro andar não está funcionando. Já reiniciei o equipamento, mas o problema persiste. Podem enviar um técnico?",produtivo
+"Gostaria de saber se há alguma atualização sobre o ticket de suporte que abri ontem, de número #11235.",produtivo
+"Boas-vindas ao novo membro da equipe, Rafael!",improdutivo
+"Por favor, revisar e aprovar as alterações no documento 'Especificação Funcional v2.1' que está na pasta compartilhada.",produtivo
+Recebi sua mensagem e vou verificar o ocorrido. Retorno em breve.,improdutivo
+Poderiam me dar permissão de escrita no repositório 'mobile-app' do Git? Preciso subir as novas features.,produtivo
+A empresa X fará uma apresentação de sua ferramenta de monitoramento na próxima terça-feira às 11h. A participação é opcional.,improdutivo
+O certificado SSL do nosso site de e-commerce irá expirar em 5 dias. Precisamos iniciar o processo de renovação imediatamente.,produtivo
+A fatura deste mês veio com um valor incorreto. Poderiam verificar o que aconteceu e emitir uma segunda via corrigida? Anexei a fatura para referência.,produtivo
+Obrigado por me manter atualizado sobre o andamento do projeto.,improdutivo
+Onde posso encontrar a gravação da reunião de apresentação do novo software de RH?,produtivo
+"Parabéns pelo nascimento do seu filho, Lucas! Muitas alegrias para a família.",improdutivo
+O deploy em produção que estava agendado para hoje à noite precisa ser cancelado. Encontramos um bug crítico de última hora. Qual o procedimento para o cancelamento formal?,produtivo
+Apenas para notificar que conclui a tarefa T-1875 no Jira. O card já foi movido para 'Done'.,improdutivo
+Não estou recebendo as notificações do sistema no meu email. Minhas configurações parecem corretas. Podem investigar?,produtivo
+"Ótimo trabalho na otimização da query, a performance melhorou significativamente!",improdutivo
+Gostaria de solicitar um adiantamento de salário para o próximo mês. Com quem da área de Recursos Humanos eu devo falar?,produtivo
+Recebido. Obrigado.,improdutivo
+A integração com o gateway de pagamento está retornando um erro de autenticação no ambiente de sandbox. Poderiam nos fornecer novas credenciais de teste?,produtivo
+Lembrete: amanhã é o último dia para o preenchimento da pesquisa de clima organizacional.,improdutivo
+"Precisamos de uma definição sobre qual será a plataforma de nuvem utilizada: AWS, Azure ou GCP. Essa decisão está bloqueando o início da arquitetura do projeto.",produtivo
+Confirmado. Estarei presente na reunião.,improdutivo
+O link para o ambiente de testes que me foi enviado parece estar quebrado. Poderiam me enviar o endereço correto?,produtivo
+Gostei muito da palestra sobre segurança da informação. Foi bastante esclarecedora.,improdutivo
+"Por favor, poderiam exportar os dados de logs do servidor web entre 14:00 e 15:00 de ontem? Estamos investigando uma instabilidade.",produtivo
+Sua solicitação de férias foi aprovada.,improdutivo
+Qual o prazo para submeter as despesas de viagem do último mês? Preciso fazer o reembolso.,produtivo
+"Ok, entendi. Obrigado pelo esclarecimento.",improdutivo
+O sistema não está calculando o imposto corretamente para vendas interestaduais. Este é um problema crítico que precisa de atenção imediata.,produtivo
+Vi sua mensagem. Retornarei assim que possível.,improdutivo
+Solicito a compra de uma licença para o software 'DataGrip'. Segue em anexo o formulário de requisição preenchido.,produtivo
+Feliz Natal e um próspero Ano Novo a todos!,improdutivo
+O cliente da proposta 2025-A7 solicitou uma alteração no escopo. Precisamos reavaliar o prazo e o custo. Podemos marcar uma reunião urgente para discutir?,produtivo
+A documentação da API está desatualizada. O endpoint '/users/create' agora requer um novo campo obrigatório. Favor atualizar o documento.,produtivo
+Agradeço a colaboração.,improdutivo
+"Meu computador está extremamente lento e travando constantemente, o que está impactando minha produtividade. Posso levar ao suporte técnico para uma avaliação?",produtivo
+"Obrigado por compartilhar o artigo, parece muito interessante.",improdutivo
+Poderiam me dar um exemplo de como devo preencher o campo 'Centro de Custo' no novo sistema de despesas?,produtivo
+Lembrete amigável: o relatório de performance semanal vence hoje.,produtivo
+"A funcionalidade de 'drag and drop' para upload de arquivos não está funcionando no navegador Firefox. No Chrome, funciona normalmente. Podem verificar a compatibilidade?",produtivo
+Seu pedido #54321 foi enviado com sucesso.,improdutivo
+Gostaria de agendar minha avaliação de desempenho trimestral. Você teria disponibilidade na próxima quinta ou sexta-feira?,produtivo
+Parabéns pelo seu aniversário de empresa! São 5 anos de grande dedicação.,improdutivo
+Onde está localizada a versão mais recente do manual do usuário? O link na intranet parece estar apontando para uma versão antiga.,produtivo
+Este e-mail é para confirmar sua inscrição no webinar 'Tendências de Inteligência Artificial para 2026'.,improdutivo
+Precisamos da aprovação final no design do aplicativo até amanhã para que a equipe de desenvolvimento possa começar as sprints na segunda-feira.,produtivo
+O coffee break de hoje será especial em comemoração aos aniversariantes do mês!,improdutivo
+Qual é o procedimento para solicitar um monitor adicional para minha estação de trabalho?,produtivo
+Apenas para informar que estarei ausente amanhã no período da manhã para uma consulta médica.,improdutivo
+"A query para extração de dados está demorando mais de 10 minutos para rodar, o que é inviável para o relatório em tempo real. Há alguma forma de otimizá-la?",produtivo
+Grato pelo retorno rápido.,improdutivo
+O ar condicionado do nosso setor parou de funcionar. Está muito quente na sala. Já foi aberto um chamado para a manutenção?,produtivo
+Estou tendo problemas para acessar o relatório de progresso do projeto. O sistema pede uma senha que eu não tenho. Qual senha devo usar?,produtivo
+Votos de melhoras! Espero que se recupere logo.,improdutivo
+"Preciso que a lista de permissões de acesso seja atualizada para incluir o novo estagiário, Pedro Alves. Ele precisa de acesso de leitura ao sistema de chamados.",produtivo
+A apresentação de resultados do Q3 foi remarcada para a próxima semana. O novo convite será enviado em breve.,improdutivo
+Poderiam verificar por que o job noturno de backup falhou na última madrugada? Precisamos garantir a integridade dos dados.,produtivo
+Legal! Obrigado por compartilhar.,improdutivo
+A API de consulta de CEP está retornando 404 para todos os endpoints. A documentação indica que deveria estar ativa. Houve alguma mudança não comunicada?,produtivo
+Recebemos o seu currículo e agradecemos o seu interesse em fazer parte da nossa equipe. Manteremos seu perfil em nosso banco de dados para futuras oportunidades.,improdutivo
+"Por favor, preciso que a nota fiscal 8876-B seja cancelada no sistema. Foi emitida com o CNPJ incorreto. Qual o procedimento para a carta de correção?",produtivo
+Lembrete: O prazo para entrega do IRPF se encerra na próxima semana.,improdutivo
+O servidor de homologação (HML) não está respondendo desde as 8h da manhã. A equipe de QA está parada. Poderiam verificar a situação com urgência?,produtivo
+Parabéns pelo fechamento do grande contrato com a ACME Corp! Uma vitória imensa para todo o time!,improdutivo
+Gostaria de solicitar acesso de administrador temporário ao WordPress do blog corporativo para instalar um novo plugin de SEO. Acesso necessário por 24h.,produtivo
+"Apenas para ciência de todos, a partir de hoje o ramal do setor de Compras mudou para 4567.",improdutivo
+Poderiam me enviar o balanço financeiro consolidado do último trimestre? Preciso dos dados para a apresentação ao conselho.,produtivo
+Obrigado por me incluir na conversa.,improdutivo
+A tarefa [JIRA-TICKET-5543] está me bloqueando. A API da qual dependo ainda não foi liberada pela outra equipe. Podemos escalar a prioridade?,produtivo
+"Este é um email automático. Por favor, não responda.",improdutivo
+Preciso de uma cotação para a renovação de 15 licenças do pacote Adobe Creative Cloud. Nosso contrato atual vence no próximo mês.,produtivo
+"Boas férias, [Nome]! Aproveite para descansar bastante.",improdutivo
+O cliente [Nome do Cliente] está solicitando uma reunião para renegociar os termos do contrato de serviço. Qual a sua disponibilidade na próxima semana?,produtivo
+Confirmo o recebimento dos arquivos. Irei analisá-los e retorno em breve.,improdutivo
+Minha assinatura de email está desatualizada. Como faço para atualizá-la com meu novo cargo?,produtivo
+A pesquisa de satisfação do cliente do último mês já está disponível no dashboard de BI.,improdutivo
+"Por favor, aprovem minha solicitação de viagem para a conferência em São Paulo. As passagens precisam ser emitidas até sexta-feira para garantir o preço.",produtivo
+Bem-vindo à nossa newsletter mensal!,improdutivo
+A execução do script de migração de dados falhou com um erro de 'primary key violation'. Seguem os logs em anexo para análise. O que devo fazer?,produtivo
+Obrigado a todos que participaram do nosso workshop de segurança. O feedback foi muito positivo!,improdutivo
+Gostaria de um esclarecimento sobre a política de reembolso de despesas com home office. O custo com internet de alta velocidade é elegível?,produtivo
+Estou ciente da situação e acompanhando.,improdutivo
+Onde posso encontrar o termo de confidencialidade (NDA) padrão da empresa para enviar a um novo parceiro?,produtivo
+"Sua senha irá expirar em 3 dias. Por favor, clique no link a seguir para atualizá-la.",improdutivo
+O ar condicionado da sala de reuniões 5 não está gelando. Temos uma apresentação importante com cliente lá em 1 hora. É possível verificar?,produtivo
+"A ata da reunião de ontem foi excelente, muito bem detalhada. Obrigado!",improdutivo
+Precisamos urgentemente de um backup do banco de dados do sistema [Nome do Sistema] de ontem (D-1) para restaurar em um ambiente de desenvolvimento. Quem pode me ajudar?,produtivo
+O evento foi um sucesso! Obrigado pela organização.,improdutivo
+"Por favor, adicione o IP 172.16.5.89 à whitelist do firewall para que nosso novo fornecedor possa acessar o SFTP.",produtivo
+Parabéns pelo seu aniversário de 10 anos de empresa! Uma trajetória incrível.,improdutivo
+Qual o processo para solicitar um novo notebook? Meu equipamento atual está apresentando falhas constantes e já tem mais de 4 anos de uso.,produtivo
+Obrigado pela rápida resposta.,improdutivo
+A compilação do aplicativo Android está falhando no Jenkins. O mesmo código compila normalmente na minha máquina local. Podem verificar as configurações do ambiente de CI/CD?,produtivo
+Informamos que o estacionamento do prédio estará em obras na próxima semana. Utilizem as vagas alternativas sinalizadas.,improdutivo
+Poderiam me passar o contato do gerente responsável pelo projeto [Nome do Projeto]? Preciso alinhar uma dependência técnica.,produtivo
+"Recebido, vou encaminhar para o setor responsável.",improdutivo
+Gostaria de registrar uma sugestão de melhoria para o sistema de CRM: adicionar um campo de 'data de último contato' na tela principal do cliente. Onde posso formalizar isso?,produtivo
+Sinto muito pela sua perda. Meus pêsames a você e sua família.,improdutivo
+O relatório de vendas exportado pelo sistema está vindo sem os dados da filial de Manaus. Este problema começou após a última atualização. Podem corrigir?,produtivo
+Apenas compartilhando este artigo sobre novas tendências em machine learning que achei muito relevante para o nosso projeto.,improdutivo
+Preciso agendar a homologação da nova funcionalidade de pagamento via Pix com o cliente. Qual a melhor data para a equipe de produto acompanhar?,produtivo
+Gostei da nova decoração do escritório!,improdutivo
+O acesso via RDP ao servidor SRV-DB01 está indisponível. Preciso executar um script de manutenção. Poderiam verificar o que está acontecendo?,produtivo
+Parabéns pela conclusão da sua certificação! É um grande feito.,improdutivo
+"Por favor, me inclua na lista de distribuição de emails sobre as atualizações do projeto 'Orion'.",produtivo
+Sua solicitação de acesso foi processada.,improdutivo
+A licença do software de antivírus em minha máquina expirou. Como proceder para a renovação?,produtivo
+Desejo a todos um ótimo final de semana.,improdutivo
+O cliente está questionando uma cobrança na fatura de Março. Alguém do financeiro pode me ajudar a analisar o extrato e preparar uma resposta?,produtivo
+"Obrigado por organizar o happy hour, foi muito divertido!",improdutivo
+Qual a versão do PHP homologada para rodar a nova versão do sistema? Preciso configurar meu ambiente de desenvolvimento.,produtivo
+Sua assinatura em nosso serviço foi renovada com sucesso.,improdutivo
+Precisamos de uma definição do time de marketing sobre o texto final para a nova landing page. O prazo de desenvolvimento se encerra amanhã.,produtivo
+"O café da manhã de boas-vindas para os novos contratados será amanhã, às 9h, na copa principal.",improdutivo
+"A sala de conferência para a nossa reunião das 15h está ocupada, embora estivesse reservada em meu nome. Podemos usar outra sala? Onde?",produtivo
+Agradeço a ajuda e a paciência.,improdutivo
+"Por favor, conceda permissão de leitura e escrita para o usuário 'j.santos' na pasta '\\servidor\projetos\marketing\campanha2025'.",produtivo
+A gravação do treinamento de ontem já está disponível na plataforma de EAD.,improdutivo
+Onde estão os mockups de alta fidelidade aprovados pelo cliente? Preciso deles para iniciar o desenvolvimento do front-end.,produtivo
+Foi um prazer conhecê-lo na reunião de hoje.,improdutivo
+"O processo de importação de planilhas está corrompendo caracteres especiais (acentos, ç). Precisamos que isso seja corrigido, pois afeta a base de clientes.",produtivo
+Fico feliz em saber que o problema foi resolvido.,improdutivo
+Gostaria de solicitar um segundo monitor. Meu trabalho envolve a comparação constante de planilhas e isso aumentaria muito minha produtividade. Qual o procedimento?,produtivo
+Lembrete: a vacinação contra a gripe ocorrerá no ambulatório da empresa na próxima quarta-feira.,improdutivo
+O job que processa os pagamentos noturnos parece estar em loop infinito e consumindo 100% da CPU do servidor. Precisamos intervir para não impactar outras operações.,produtivo
+"Apenas para registrar, a decisão foi tomada na reunião de ontem e documentada na ata que enviei mais cedo.",improdutivo
+"Preciso de uma sala com projetor para 10 pessoas para a próxima terça-feira, das 14h às 16h. Qual está disponível?",produtivo
+"Seu feedback é muito importante para nós. Por favor, responda a esta breve pesquisa.",improdutivo
+O cliente reportou que não consegue finalizar a compra com cartão de crédito internacional. Podem simular um teste e verificar os logs do gateway de pagamento?,produtivo
+Parabéns a todos que bateram suas metas neste trimestre!,improdutivo
+É possível obter uma listagem de todos os usuários com perfil de 'administrador' no sistema [Nome do Sistema]? Precisamos fazer uma auditoria de segurança.,produtivo
+As fotos da festa de final de ano já estão no drive compartilhado!,improdutivo
+O formulário de contato do site não está enviando emails para o time de vendas. Testei agora e não recebi a notificação. Podem verificar a configuração do SMTP?,produtivo
+Agradeço a todos pela colaboração.,improdutivo
+Solicito o estorno do lançamento duplicado no meu cartão corporativo referente à viagem para Belo Horizonte. Seguem os comprovantes em anexo.,produtivo
+Tenha um ótimo dia!,improdutivo
+A URL do ambiente de staging mudou? Não consigo mais acessá-la pelo link antigo.,produtivo
+Obrigado por notar. Já estou corrigindo.,improdutivo
+"Prezado(a) [Nome], Gostaria de agendar uma reunião para discutirmos o projeto Alpha. Por favor, me informe sua disponibilidade na próxima semana. Atenciosamente, [Seu Nome]",produtivo
+"Olá equipe, O relatório trimestral precisa ser entregue até sexta-feira. Favor priorizar e me enviar as seções de cada um assim que concluídas. Obrigado!",produtivo
+Confirmando o recebimento do seu e-mail. A fatura foi encaminhada para pagamento e será processada em breve. Abs.,produtivo
+"Prezado(a) [Nome], A sua solicitação de acesso ao sistema foi aprovada. As credenciais serão enviadas por e-mail em até 24 horas. Cordialmente, Suporte Técnico",produtivo
+"Equipe, A apresentação final para o cliente será amanhã às 10h. Revisem o slide 15 com os dados de Q3 para garantir a precisão. Obrigado.",produtivo
+Apenas para testar o envio de e-mails. Ignore esta mensagem. Atenciosamente.,improdutivo
+Fim de semana chegando! Vamos sair? Me ligue. Abraços.,improdutivo
+"Confiram a foto do nosso novo escritório, ficou incrível! Meus cumprimentos a todos os envolvidos. xD",improdutivo
+Apresentando uma nova abordagem para a inovação centrada no cliente e a otimização de fluxos de trabalho através de uma sinergia holística de soluções de ponta. Blablabla.,improdutivo
+"E aí, tudo bem? Só queria saber se já almoçou. Abraços!",improdutivo
+"Prezados, favor confirmar presença na confraternização da empresa. É só para a gente ter uma ideia de quantas pessoas vão, não é obrigatório.",improdutivo
+"Comunicado: Alteração de sala de reunião. A reunião agendada para hoje às 14h na sala 301, será agora na sala 405. Obrigado pela compreensão.",produtivo
+Gostaria de saber se o problema no servidor já foi resolvido. Estamos aguardando a resposta para continuar as atividades.,produtivo
+"Por favor, revisem o documento anexo e deixem seus comentários até o final do dia. Precisamos da aprovação de todos para seguir com a próxima fase. Grato.",produtivo
+Enviando o link para a pesquisa de satisfação da empresa. Leva apenas 2 minutos para responder. Sua opinião é muito importante para nós. Obrigado.,improdutivo
+"Atraso no projeto de Marketing. Devido a problemas técnicos, o prazo de entrega será prorrogado para a próxima sexta-feira. Agradecemos a compreensão de todos.",produtivo
+"Olá [Nome], Fiquei em dúvida sobre o cálculo do item 3. Poderia me dar uma ajuda rápida? Estou disponível para ligar se precisar. Obrigado.",produtivo
+"Equipe, O café da manhã especial será servido na copa do 3º andar. Aproveitem!",improdutivo
+Lembrete: O prazo para preenchimento da declaração de despesas de viagem é esta sexta-feira. Favor preencher o formulário online.,produtivo
+Gostaria de saber se o pagamento do fornecedor X já foi realizado. Ele nos cobrou novamente. Aguardo seu retorno.,produtivo
+"Olá a todos, Segue o link para a live de apresentação do novo produto. Contamos com a presença de todos.",improdutivo
+"Convite para a festa de final de ano da empresa. Traje: casual. Música, comida e muita diversão! Não perca!",improdutivo
+"Anexei a planilha de dados de vendas que você solicitou. Os dados estão filtrados por região e estão prontos para a sua análise. Qualquer dúvida, estou à disposição.",produtivo
+"Olá, Conforme a nossa conversa, segue o contrato de prestação de serviços para a sua revisão. Peço que nos retorne com a sua assinatura ou com as suas observações. Obrigado.",produtivo
+Para conhecimento. O relatório de desempenho do setor já foi finalizado e será apresentado na próxima reunião. Agradeço o empenho da equipe.,produtivo
+Compartilhando um artigo interessante sobre as últimas tendências do mercado de tecnologia. Acredito que possa ser útil para a equipe.,improdutivo
+"Obrigado por nos enviar sua proposta. Infelizmente, no momento não estamos com vagas abertas que se encaixem no seu perfil. Manteremos seu currículo em nosso banco de dados.",improdutivo
+"Bom dia! A conta de energia já foi paga. O comprovante está em anexo. Atenciosamente, Financeiro.",produtivo
+Apenas para confirmar a entrega do material na sede do cliente. A transportadora já me enviou a confirmação.,produtivo
+"Bom dia, equipe. Tenho uma novidade para compartilhar com vocês! Vamos fazer uma ação social no próximo mês. Todos estão convidados a participar.",improdutivo
+"Seja bem-vindo(a) à nossa newsletter! Fique por dentro das novidades, promoções e conteúdos exclusivos do nosso blog.",improdutivo
+"Lembrete de renovação de domínio. Seu domínio [nome-do-dominio] irá expirar em 30 dias. Por favor, renove para evitar a interrupção dos serviços.",improdutivo
+"Prezados, O link para a pesquisa de clima está com problemas. Não consigo acessar. Poderiam verificar? Aguardo retorno.",produtivo
+Pedido de licença médica aprovado. O setor de RH encaminhará todas as informações necessárias. Melhoras!,produtivo
+"Olá, Gostaria de agendar um café para conversarmos sobre uma parceria. Me diga quando está disponível. Abraços.",improdutivo
+"Apresentação da empresa. Anexo a apresentação institucional com nossos produtos e serviços. Por favor, avaliem e me digam se têm interesse em uma reunião.",produtivo
+"Confiram a foto do nosso novo escritório, ficou incrível! Meus cumprimentos a todos os envolvidos. :)",improdutivo
+"Assunto: Novas Regras de Estacionamento. Prezados colaboradores, a partir da próxima semana, o estacionamento da empresa terá novas regras de uso. Para mais detalhes, consulte a circular na intranet. Atenciosamente, Recursos Humanos.",improdutivo
+Apenas para informar que o sistema de vendas está com instabilidade desde as 09h. Nosso time técnico já foi acionado e está trabalhando para resolver. Avisaremos quando for normalizado.,improdutivo
+Confirmando a reunião de amanhã. O anexo contém a pauta e o relatório pré-reunião. Favor ler com antecedência. Até mais!,produtivo
+"Agradecemos o seu contato. A sua mensagem foi recebida e será respondida em até 48 horas úteis. Atenciosamente, Suporte ao Cliente.",improdutivo
+"Olá, por favor, me envie uma atualização sobre o status do pedido #12345.",produtivo
+"Prezados, Feliz Páscoa para todos! Que o dia de vocês seja abençoado.",improdutivo
+"Por favor, verifique se os dados da planilha de orçamento foram atualizados e me retorne. Obrigado.",produtivo
+Feliz Natal e um próspero Ano Novo a todos! Que o próximo ano seja de grandes conquistas.,improdutivo
+"Anexo a apresentação final para o cliente. Por favor, leiam e me digam se precisam de alguma alteração.",produtivo
+"Apenas para informar que estou de licença a partir de amanhã e retorno em 15 dias. Qualquer urgência, contatem o [Nome da pessoa].",produtivo
+Feliz Aniversário! Tudo de bom para você e que a felicidade esteja sempre presente em sua vida.,improdutivo
+"Verifiquei o sistema, mas o problema persiste. Poderiam nos ajudar com uma solução?",produtivo
+"E aí, tudo em paz? Por aqui está tudo tranquilo, só queria saber como andam as coisas. Abraços!",improdutivo
+Anexei o relatório de despesas do último trimestre para sua análise. Aguardo seu feedback.,produtivo
+"Olá, poderiam confirmar a presença de vocês no evento de lançamento do novo produto? Contamos com a sua presença!",improdutivo
+"Precisamos de uma resposta até o final do dia sobre a proposta. Por favor, nos diga se a aprovação foi realizada.",produtivo
+Comunicado: O almoço especial do dia das mães será servido às 12:30. Esperamos todos vocês!,improdutivo
+"Por favor, verifique e me diga se há algum problema com a entrega do pedido #9876. O cliente está aguardando.",produtivo
+"Olá, Gostaria de agendar uma ligação rápida para tirar uma dúvida sobre a nova política de reembolsos. Me diga um horário disponível.",produtivo
+Compartilhando um meme que achei engraçado. Espero que gostem! rsrs,improdutivo
+"Por favor, nos envie os dados do projeto até a próxima semana. Precisamos deles para o relatório final. Obrigado.",produtivo
+Anexei o contrato assinado e o comprovante de pagamento. Agradeço a sua colaboração. Atenciosamente.,produtivo
+Feliz Dia das Bruxas! Não se esqueçam de pegar os doces na recepção hoje!,improdutivo
+"Precisamos de mais detalhes sobre o andamento do projeto. Por favor, nos envie um status atualizado.",produtivo
+"Em anexo, você encontrará as atas de todas as reuniões do projeto. Por favor, revise-as e me avise se tiver alguma observação.",produtivo
+"Olá, encontrei esse vídeo na internet e achei que poderia ser útil para a nossa equipe de design. Dêem uma olhada.",improdutivo
+"Gostaria de saber se já foi possível avançar com a sua parte do projeto. Por favor, me dê um retorno. Obrigado.",produtivo
+"Anexei as especificações técnicas do novo sistema. Acredito que seja útil para a sua equipe. Qualquer dúvida, estou à disposição.",produtivo
+"Por favor, me informe o status da requisição de compra de materiais. Precisamos do status para aprovar. Grato.",produtivo
+"Anexei o relatório de análise de mercado. Precisamos discutir os resultados na próxima reunião. Por favor, leia com antecedência.",produtivo
+Olá! Não se esqueçam de participar do nosso grupo de bate-papo no WhatsApp. É uma forma de nos comunicarmos melhor.,improdutivo
+"Olá, por favor, nos envie a apresentação final até o final do dia. Obrigado!",produtivo
+Apenas para testar o envio de e-mails. Ignore esta mensagem. Atencionalmente.,improdutivo
+Gostaria de um update sobre a solicitação que fiz. Alguma novidade?,produtivo
+O projeto foi aprovado! Segue o novo cronograma para conhecimento da equipe. Parabéns a todos!,produtivo
+"Precisamos de uma cotação para o serviço X. Por favor, nos envie o orçamento o mais rápido possível. Obrigado!",produtivo
+Apenas um lembrete: A reunião de hoje foi cancelada e será remarcada em breve.,produtivo
+"Favor, preencher o formulário de feedback do evento até o final da semana. Agradecemos sua participação.",improdutivo
+Feliz Dia do Amigo! Que a nossa amizade continue forte por muitos anos.,improdutivo
+Estamos com um problema de acesso ao sistema. O time de TI já está ciente e está investigando. Em breve daremos um retorno.,improdutivo
+Precisamos de uma revisão urgente na proposta comercial. O cliente solicitou algumas alterações.,produtivo
+"Segue anexo o documento que resume os principais pontos discutidos na reunião. Por favor, confirmem o recebimento.",produtivo
+Você foi selecionado para participar de uma pesquisa exclusiva. Clique aqui para responder.,improdutivo
+Olá! Segue a agenda da próxima semana para alinhamento. Favor verificar e me avisar se houver algum conflito. Atenciosamente.,produtivo
+Gostaria de uma previsão de conclusão para a tarefa que te passei. O prazo final está se aproximando.,produtivo
+O sistema de folha de pagamento estará fora do ar para manutenção. Voltará a operar normalmente às 20h.,improdutivo
+Anexei o link para o webinar sobre 'Como otimizar a produtividade'. Acredito que possa ser útil.,improdutivo
+"Agradecemos o seu interesse, mas a vaga foi preenchida. Manteremos o seu currículo em nosso banco de dados para futuras oportunidades.",improdutivo
+"Por favor, preencha o formulário de aprovação de despesas. Preciso que seja feito até o final do dia.",produtivo
+Apenas para te dizer que estou pensando em você! Espero que esteja tudo bem. Abraços!,improdutivo
+Agradecemos por sua compra! Seu pedido #12345 foi processado e enviado. Você pode rastreá-lo clicando aqui.,improdutivo
+Você tem um novo seguidor no LinkedIn! Conecte-se para expandir sua rede profissional.,improdutivo
+"Lembrete: A fatura de serviços #54321 está pendente. Por favor, realize o pagamento para evitar a interrupção.",produtivo
+"Precisamos de uma reunião para discutir os resultados da pesquisa. Por favor, me informe sua disponibilidade.",produtivo
+"Em anexo, a lista de convidados para o evento. Por favor, nos confirme a presença dos convidados até o fim da semana.",produtivo
+Apresentando uma nova abordagem para a gestão de projetos. Segue o link para o nosso e-book. Aproveite!,improdutivo
+Gostaria de saber se o material de treinamento já foi enviado. Precisamos dele para começar a capacitação da equipe.,produtivo
+"Olá. O relatório de vendas do mês passado já foi concluído. Favor, dar uma olhada e me enviar seu feedback. Obrigado.",produtivo
+Precisamos de uma resposta urgente para o orçamento. O cliente está pressionando. Aguardo retorno.,produtivo
+Feliz Dia do Beijo! Compartilhe essa mensagem com as pessoas que você mais gosta.,improdutivo
+"Anexei o manual de instruções do novo software. Por favor, leia e me diga se tem alguma dúvida. Atenciosamente.",produtivo
+"Por favor, me envie a sua disponibilidade para agendarmos uma entrevista. Agradecemos o seu interesse.",produtivo
+Lembrete de segurança: sua senha precisa ser alterada a cada 90 dias. Clique aqui para mudar a sua senha agora.,improdutivo
+"Anexei o documento com os requisitos do cliente. Por favor, revise-o e me envie a sua aprovação.",produtivo
+Feliz Dia dos Pais! Que você tenha um dia maravilhoso e cheio de alegria.,improdutivo
+"Em anexo, segue o feedback completo do cliente sobre o projeto. Por favor, leia e me diga como podemos melhorar. Obrigado.",produtivo
+"Olá, Apenas para saber se você recebeu o meu e-mail anterior sobre o orçamento. Gostaria de um retorno.",produtivo
+"Por favor, nos envie o relatório de desempenho o mais rápido possível. O prazo está se esgotando.",produtivo
+Apenas um lembrete: o café da manhã especial será servido na copa do 3º andar. Aproveitem!,improdutivo
+"Anexei o documento de estratégia de marketing. Por favor, revise e deixe seus comentários para a próxima reunião.",produtivo
+"Olá, gostaria de saber se você está livre para um café amanhã para conversarmos sobre a sua carreira. Atenciosamente.",improdutivo
+"Anexei o relatório de desempenho do setor. Precisamos discutir os resultados na próxima reunião. Por favor, leia com antecedência.",produtivo
+Você ganhou um desconto especial! Clique aqui para resgatar o seu cupom. Aproveite!,improdutivo
+Preciso de atualização do meu chamado #12345,produtivo
+Promoção exclusiva para você! Compre já,improdutivo
+"Olá time, A planilha com os resultados do Q4 foi atualizada. Por favor, analisem os dados e me enviem suas conclusões.",produtivo
+"Prezados, Gostaria de saber se o acesso ao novo sistema já foi liberado. A minha equipe está aguardando para começar o treinamento.",produtivo
+Para conhecimento: O processo seletivo para a nova vaga de gerente de marketing foi finalizado. O candidato selecionado será anunciado em breve.,improdutivo
+Anexei a apresentação de vendas para a reunião de amanhã. Favor revisar o material e me dizer se há algum ajuste necessário. Atenciosamente.,produtivo
+"Feliz Ano Novo chinês! Que este ano do Dragão traga prosperidade, saúde e sucesso a todos vocês.",improdutivo
+Gostaria de saber se a cotação do fornecedor Y já foi aprovada. Precisamos dar andamento ao pedido o mais rápido possível.,produtivo
+"Prezados, a pesquisa de clima organizacional foi estendida por mais uma semana. Participe para nos ajudar a construir um ambiente de trabalho melhor.",improdutivo
+Apenas para informar que a solicitação de reembolso foi aprovada e o valor será depositado em sua conta em até 5 dias úteis.,produtivo
+Feliz Dia das Mães para todas as mães da equipe! Que o dia de vocês seja repleto de amor e alegria.,improdutivo
+"Anexei o relatório de despesas da viagem. Por favor, me avise se precisar de mais alguma informação para aprovação.",produtivo
+"Olá, gostaria de saber se você pode me dar uma ajuda rápida com uma fórmula no Excel. Estou com um problema aqui.",produtivo
+Feliz Dia dos Namorados! Comemore este dia com a pessoa que você ama e desfrute de cada momento.,improdutivo
+"Precisamos de uma cotação para o novo projeto. Por favor, nos envie os preços dos materiais e prazos de entrega.",produtivo
+Agradecemos por sua participação em nosso evento. Segue o certificado em anexo para comprovação.,improdutivo
+"Prezado(a) [Nome], Em anexo, a ata da reunião de hoje com os próximos passos e responsáveis. Atenciosamente.",produtivo
+Apenas para avisar que a equipe de TI estará fazendo manutenção nos servidores no próximo sábado. O sistema estará indisponível.,improdutivo
+"Por favor, verifique se a solicitação de férias foi aprovada e me informe sobre o status. Obrigado.",produtivo
+Feliz Dia dos Pais para todos os pais da equipe! Que o dia de vocês seja abençoado e cheio de alegria.,improdutivo
+Gostaria de saber se o acesso ao sistema XYZ já foi liberado. O meu login não está funcionando. Aguardo retorno.,produtivo
+"Em anexo, o novo manual de procedimentos. Por favor, leiam e me digam se têm alguma dúvida. Atenciosamente.",produtivo
+Aviso: a impressora da sala de reuniões está com pouca tinta. Favor solicitar a reposição para a área responsável.,improdutivo
+"Olá, preciso de um resumo do seu último e-mail. Não consegui entender muito bem. Poderia me enviar os pontos principais?",produtivo
+"Olá, apenas para te enviar um vídeo que vi no Youtube e achei muito interessante. Assista quando tiver um tempo. Abraços.",improdutivo
+"Prezados, a assembleia geral anual será realizada na próxima semana. A pauta está disponível na intranet.",improdutivo
+"Por favor, confirme se o pagamento da fatura #12345 foi realizado. O fornecedor está cobrando novamente. Aguardo retorno.",produtivo
+Você tem um novo contato no WhatsApp. Adicione essa pessoa para conversarem mais tarde.,improdutivo
+"Segue o material de divulgação para a nova campanha de marketing. Por favor, revise-o e me envie sua aprovação.",produtivo
+"Olá, tudo bem? Apenas para saber como você está e como está o trabalho.",improdutivo
+"Anexei o relatório de produtividade do setor para o último mês. Por favor, leia e me dê seu feedback. Obrigado.",produtivo
+Agradecemos o seu interesse em nossa empresa. Manteremos seu currículo em nosso banco de dados por 6 meses.,improdutivo
+"Olá, preciso de ajuda com um problema técnico. Poderia me ajudar a resolver isso?",produtivo
+Apenas para te lembrar que amanhã é feriado e não teremos expediente. Aproveite para descansar!,improdutivo
+"Por favor, me envie uma cópia do contrato assinado. Preciso arquivar o documento.",produtivo
+"Olá, Feliz Dia de Ação de Graças! Desejo a você e à sua família um dia abençoado.",improdutivo
+"Olá, tudo bem? Só queria te dar um 'oi' e saber como você está. Faz tempo que a gente não se fala.",improdutivo
+"Por favor, nos envie o relatório de despesas do último trimestre. O prazo está se esgotando.",produtivo
+"Aviso: O elevador principal está em manutenção. Por favor, usem o elevador de serviço ou as escadas.",improdutivo
+Anexei o link para a pesquisa de mercado. Agradeço se puderem responder até o final da semana.,improdutivo
+"Olá, preciso de uma atualização sobre o status da sua tarefa. O prazo de entrega está se aproximando. Atenciosamente.",produtivo
+"Em anexo, o relatório de vendas semanal. Por favor, verifique se há alguma inconsistência nos dados. Obrigado.",produtivo
+Feliz Natal a todos! Que o espírito natalino traga paz e alegria aos seus corações.,improdutivo
+Agradeço a sua atenção e colaboração no projeto. O resultado final foi excelente! Parabéns a todos!,produtivo
+"Olá, a conta de luz da empresa está em atraso. Por favor, realize o pagamento o mais rápido possível para evitar o corte de energia.",produtivo
+Convite: A festa de aniversário da Maria será na próxima sexta-feira. Contamos com a sua presença!,improdutivo
+"Olá, preciso da sua ajuda para resolver um problema técnico no meu computador. Você poderia me ajudar?",produtivo
+"Em anexo, o relatório de desempenho do setor. Precisamos discutir os resultados na próxima reunião. Por favor, leia com antecedência.",produtivo
+"Olá, preciso de uma atualização sobre o status do pedido #12345. O cliente está aguardando. Por favor, me dê um retorno.",produtivo
+"Aviso de segurança: O servidor passará por uma atualização de segurança. Pedimos que salvem seus trabalhos e fechem todos os aplicativos. Atenciosamente, TI",produtivo
+"Olá, gostaria de agendar um café para conversarmos sobre um projeto. Poderia me dizer quando você está livre?",produtivo
+"Anexei o cronograma do projeto de lançamento. Por favor, revise-o e me dê seu feedback até o final do dia. Obrigado.",produtivo
+"Anexei o orçamento do projeto. Precisamos discutir o orçamento na próxima reunião. Por favor, analise-o com antecedência.",produtivo
+Aviso de segurança: A sua senha do sistema está prestes a expirar. Clique no link para redefinir sua senha.,produtivo
+"Olá, estou enviando este e-mail para confirmar a entrega do material no local do cliente. A transportadora já me enviou a confirmação.",produtivo
+"Anexei a planilha com os dados do projeto. Por favor, revise os dados e me informe se há alguma inconsistência.",produtivo
+"Olá, gostaria de saber se a sua solicitação de reembolso foi aprovada. Poderia me dar um retorno sobre o status?",produtivo
+Aviso: O sistema de folha de pagamento estará fora do ar para manutenção. Voltará a operar normalmente às 20h.,improdutivo
+"Olá, estamos com um problema de acesso ao sistema. O time de TI já foi acionado e está investigando. Em breve daremos um retorno.",improdutivo
+"Olá, gostaria de saber o status da solicitação de reembolso. Agradeço se puder me dar um retorno.",produtivo
+Aviso: a impressora do 3º andar está com problemas. Favor utilizar a do 2º andar por enquanto.,improdutivo
+"Em anexo, a lista de tarefas para o projeto. Por favor, revise e nos dê um retorno se concorda. Atenciosamente.",produtivo
+"Prezados, o formulário de feedback de desempenho deve ser preenchido até o final da semana. Obrigado pela colaboração.",improdutivo
+"Olá, preciso de um resumo do que foi discutido na última reunião. Não pude participar.",produtivo
+Convite para a palestra sobre 'Liderança e Produtividade'. Será na próxima semana no auditório. Participe!,improdutivo
+Feliz Dia do Trabalho para todos! Que o nosso trabalho continue sendo valorizado e reconhecido.,improdutivo
+"Anexei o relatório de vendas semanal. Por favor, verifique se há alguma inconsistência nos dados.",produtivo
+"Olá, tudo bem? Apenas para saber se você pode me dar uma ajuda rápida com uma dúvida que tenho.",produtivo
+Aviso: o sistema de ar condicionado estará em manutenção no próximo sábado. O prédio estará com a temperatura mais alta do que o normal.,improdutivo
+Anexei a agenda da próxima semana para alinhamento. Favor verificar e me avisar se houver algum conflito. Atenciosamente.,produtivo
+"Equipe, A apresentação final para o cliente será amanhã às 10h. Revisem o slide 15 com os dados de Q3 para garantir a precisão. Obrigado!",produtivo
+O pedido #54321 foi despachado e a nota fiscal foi enviada para o seu e-mail. Agradecemos a sua preferência.,improdutivo
+"Olá, por favor, me dê uma atualização sobre o status da sua solicitação. O cliente está pressionando.",produtivo
+Apenas para informar que a nossa reunião de amanhã foi cancelada. A nova data será agendada em breve.,produtivo
+Feliz Dia do Gato! Compartilhe essa mensagem com os seus amigos que amam gatos. Miau!,improdutivo
+"Anexei o relatório de análise do mercado. Por favor, revise os dados e me informe se há alguma inconsistência. Atenciosamente.",produtivo
+Gostaria de saber se o acesso à pasta compartilhada já foi liberado. A equipe está aguardando para começar o trabalho.,produtivo
+"Olá, encontrei esse artigo interessante sobre as últimas tendências do mercado. Achei que seria útil para a nossa equipe. Dêem uma lida.",improdutivo
+Aviso: a nossa rede de internet estará fora do ar para manutenção. O retorno está previsto para as 18h.,improdutivo
+"Olá, a nova versão do software já está disponível. Por favor, atualizem e testem. Atenciosamente, TI",improdutivo
+"Em anexo, segue o feedback do cliente sobre o projeto. Por favor, leia e me diga como podemos melhorar. Obrigado.",produtivo
+"Olá, apenas para te dar um oi e saber como você está. Faz tempo que a gente não se fala.",improdutivo
+"Precisamos de uma reunião para discutir a nova estratégia de vendas. Por favor, me informe sua disponibilidade. Atenciosamente.",produtivo
+Feliz Dia do Abraço! Não se esqueçam de dar um abraço nos seus colegas hoje.,improdutivo
+"Olá, gostaria de saber se você está livre para um café amanhã para conversarmos sobre o seu projeto. Atenciosamente.",improdutivo
+"Prezados, gostaria de saber o status da solicitação #45678 enviada na semana passada.",produtivo
+"Bom dia, segue em anexo o relatório financeiro solicitado na última reunião.",produtivo
+"Olá, estou com dificuldades para acessar o sistema. Poderiam verificar?",produtivo
+Favor confirmar o recebimento do contrato atualizado enviado ontem.,produtivo
+Solicito a atualização dos dados cadastrais da empresa conforme documento anexo.,produtivo
+Estamos com um problema técnico no módulo de faturamento. Precisamos de suporte urgente.,produtivo
+Gostaria de agendar uma reunião para discutir o andamento do projeto X.,produtivo
+"Por gentileza, enviar a nota fiscal referente ao serviço prestado em agosto.",produtivo
+Encaminho os documentos solicitados para análise e aprovação.,produtivo
+Preciso de esclarecimentos sobre a cláusula 5 do contrato enviado.,produtivo
+Feliz aniversário! Que seu dia seja repleto de alegrias.,improdutivo
+Parabéns pelo excelente trabalho realizado no último trimestre!,improdutivo
+"Bom dia, apenas passando para desejar uma ótima semana a todos.",improdutivo
+Feliz Natal e um próspero Ano Novo para toda a equipe!,improdutivo
+Agradecemos pela parceria ao longo deste ano.,improdutivo
+Foi um prazer participar do evento com vocês ontem.,improdutivo
+Obrigado pelo envio dos documentos. Tudo certo por aqui.,improdutivo
+Gostaria de compartilhar um artigo interessante sobre inovação.,improdutivo
+Estamos muito felizes com os resultados alcançados até agora.,improdutivo
+Parabéns pela conquista do prêmio de excelência!,improdutivo
+"Prezados, poderiam informar se o pedido #9823 já foi faturado?",produtivo
+Encaminho os comprovantes de pagamento referentes ao mês de julho.,produtivo
+Solicito a liberação de acesso ao sistema para o novo colaborador.,produtivo
+Favor revisar os valores da proposta enviada ontem.,produtivo
+Estamos com dificuldades na integração da API. Podem verificar?,produtivo
+Gostaria de confirmar a agenda da reunião de amanhã às 14h.,produtivo
+"Por gentileza, enviar o contrato assinado até o final do dia.",produtivo
+Encaminho a planilha atualizada com os dados solicitados.,produtivo
+Solicito apoio técnico para resolver o erro 503 no servidor.,produtivo
+Favor atualizar o status do chamado #11245.,produtivo
+Estamos aguardando o retorno sobre a proposta comercial enviada.,produtivo
+Encaminho os documentos para análise jurídica.,produtivo
+Gostaria de saber se há previsão para entrega dos equipamentos.,produtivo
+Solicito a inclusão do novo cliente na base de dados.,produtivo
+Favor reenviar a nota fiscal do serviço prestado em junho.,produtivo
+Estamos com dúvidas sobre o processo de homologação. Podem ajudar?,produtivo
+Encaminho o relatório de desempenho para validação.,produtivo
+Solicito confirmação de recebimento dos arquivos enviados.,produtivo
+Favor verificar a pendência no sistema de pagamentos.,produtivo
+Gostaria de agendar uma visita técnica para a próxima semana.,produtivo
+Encaminho os dados para cadastro do fornecedor.,produtivo
+Estamos com inconsistência nos valores da fatura. Podem revisar?,produtivo
+Solicito a criação de um novo usuário no sistema ERP.,produtivo
+Favor confirmar se o treinamento ocorrerá conforme previsto.,produtivo
+Encaminho o cronograma atualizado do projeto.,produtivo
+Gostaria de saber se há previsão de retorno sobre o orçamento.,produtivo
+Solicito a substituição do equipamento defeituoso.,produtivo
+Encaminho os dados para emissão do boleto bancário.,produtivo
+Favor verificar o erro apresentado na tela de login.,produtivo
+Estamos aguardando a liberação do pedido #7745.,produtivo
+Encaminho os documentos para abertura de conta jurídica.,produtivo
+Solicito a atualização do endereço de entrega.,produtivo
+Favor revisar o contrato e retornar com observações.,produtivo
+Encaminho os dados para emissão da certidão negativa.,produtivo
+Gostaria de confirmar se o pagamento foi processado.,produtivo
+Solicito a reemissão do boleto vencido.,produtivo
+Encaminho os dados para cadastro de novo produto.,produtivo
+Favor verificar o erro no módulo de estoque.,produtivo
+Estamos com dúvidas sobre o processo de devolução.,produtivo
+Solicito a inclusão de cláusula adicional no contrato.,produtivo
+Encaminho os documentos para renovação do convênio.,produtivo
+Favor confirmar a disponibilidade da sala de reunião.,produtivo
+Gostaria de saber se o sistema já foi atualizado.,produtivo
+Solicito a troca do responsável técnico no projeto.,produtivo
+Encaminho os dados para emissão de nota de crédito.,produtivo
+Favor revisar os dados cadastrais do cliente X.,produtivo
+Estamos com dificuldades na emissão de etiquetas.,produtivo
+Solicito a liberação de verba para o evento.,produtivo
+Encaminho os dados para análise contábil.,produtivo
+Favor verificar o erro na conciliação bancária.,produtivo
+"Bom dia, passando para desejar uma excelente semana a todos!",improdutivo
+"Parabéns pelo aniversário, muitas felicidades!",improdutivo
+Feliz Natal e um próspero Ano Novo!,improdutivo
+Foi um prazer participar do evento com vocês.,improdutivo
+"Obrigado pelo envio, tudo certo por aqui.",improdutivo
+Parabéns pela conquista do prêmio de inovação!,improdutivo
+Gostaria de compartilhar um artigo interessante sobre liderança.,improdutivo
+Estamos muito felizes com os resultados alcançados.,improdutivo
+Bom trabalho a todos os envolvidos no projeto!,improdutivo
+Obrigado pela atenção durante a visita.,improdutivo
+"Parabéns pela nova sede, ficou excelente!",improdutivo
+Foi ótimo conhecer a equipe de vocês.,improdutivo
+Estamos muito satisfeitos com o atendimento.,improdutivo
+Obrigado pela recepção calorosa ontem.,improdutivo
+Parabéns pelo excelente desempenho no trimestre!,improdutivo
+Ficamos felizes com a participação de vocês no evento.,improdutivo
+Obrigado por compartilhar o vídeo da palestra.,improdutivo
+Gostamos muito da apresentação realizada ontem.,improdutivo
+Parabéns pela certificação ISO conquistada!,improdutivo
+Obrigado pela lembrança enviada à nossa equipe.,improdutivo
+Parabéns pela nova parceria anunciada!,improdutivo
+Ficamos muito contentes com o convite recebido.,improdutivo
+Obrigado por nos incluir na comemoração.,improdutivo
+Parabéns pela expansão da empresa!,improdutivo
+Foi ótimo reencontrar vocês no congresso.,improdutivo
+Obrigado pela gentileza no atendimento.,improdutivo
+Parabéns pelo lançamento do novo produto!,improdutivo
+Ficamos felizes com o reconhecimento recebido.,improdutivo
+Obrigado pela visita ao nosso escritório.,improdutivo
+Parabéns pela palestra inspiradora!,improdutivo
+Foi excelente participar do workshop com vocês.,improdutivo
+Obrigado pelo envio do brinde promocional.,improdutivo
+Parabéns pela campanha de marketing!,improdutivo
+Ficamos honrados com o convite para o evento.,improdutivo
+Obrigado pela colaboração no projeto social.,improdutivo
+Parabéns pela matéria publicada na revista!,improdutivo
+Foi muito bom compartilhar ideias com vocês.,improdutivo
+Obrigado pela indicação do fornecedor.,improdutivo
+Parabéns pela conquista do selo de qualidade!,improdutivo
+Ficamos felizes com o feedback positivo.,improdutivo
+Obrigado pela participação na reunião de ontem.,improdutivo
+Parabéns pela nova unidade inaugurada!,improdutivo
+Foi ótimo trocar experiências com vocês.,improdutivo
+Obrigado pela sugestão de leitura.,improdutivo
+Parabéns pela trajetória profissional!,improdutivo
+Ficamos muito gratos pela lembrança.,improdutivo
+Obrigado pela mensagem de apoio.,improdutivo
+"Prezados, gostaria de confirmar se o envio dos documentos para análise foi realizado conforme combinado.",produtivo
+Encaminho em anexo o relatório técnico solicitado na última reunião para que possam validar os dados.,produtivo
+Solicito a gentileza de verificar o erro que está ocorrendo na tela de login do sistema ERP.,produtivo
+Favor informar se há previsão para liberação do pagamento referente à nota fiscal nº 2345.,produtivo
+Estamos com dificuldades na integração da API de faturamento e precisamos de suporte urgente.,produtivo
+Encaminho os dados atualizados do cliente para que seja feito o recadastramento no sistema.,produtivo
+Gostaria de agendar uma reunião com o setor jurídico para discutir os termos do novo contrato.,produtivo
+"Solicito a reemissão do boleto vencido, pois o sistema não está permitindo o pagamento.",produtivo
+Favor confirmar o recebimento dos arquivos enviados ontem às 17h via e-mail.,produtivo
+Encaminho os comprovantes de pagamento referentes ao mês de agosto para conferência.,produtivo
+Estamos com uma pendência no sistema de estoque que está impedindo a finalização dos pedidos.,produtivo
+Solicito a inclusão do novo colaborador na lista de acesso ao sistema interno.,produtivo
+Gostaria de saber se o treinamento previsto para sexta-feira será mantido ou reagendado.,produtivo
+Encaminho os documentos necessários para abertura de conta jurídica conforme solicitado.,produtivo
+Favor revisar os valores da proposta comercial enviada na semana passada.,produtivo
+Estamos aguardando o retorno sobre a solicitação de suporte técnico enviada ontem.,produtivo
+Solicito a liberação do pedido #45678 que está retido no sistema por inconsistência de dados.,produtivo
+Encaminho a planilha com os dados atualizados para emissão da nota fiscal.,produtivo
+Gostaria de confirmar se o contrato foi assinado e enviado para o setor responsável.,produtivo
+Favor verificar o erro apresentado na tela de cadastro de fornecedores.,produtivo
+"Bom dia, apenas passando para desejar uma excelente semana a todos!",improdutivo
+"Parabéns pelo aniversário, muitas felicidades e sucesso!",improdutivo
+"Agradecemos pela parceria ao longo deste ano, foi um prazer trabalhar com vocês.",improdutivo
+"Foi ótimo participar do evento com vocês, aprendemos bastante.",improdutivo
+"Obrigado pelo envio, tudo certo por aqui. Tenham um ótimo dia!",improdutivo
+"Parabéns pela conquista do prêmio de inovação, vocês merecem!",improdutivo
+Gostaria de compartilhar um artigo interessante sobre liderança que encontrei ontem.,improdutivo
+"Estamos muito felizes com os resultados alcançados até agora, parabéns a todos!",improdutivo
+"Bom trabalho a todos os envolvidos no projeto, ficou excelente!",improdutivo
+"Obrigado pela atenção durante a visita, foi muito agradável.",improdutivo
+"Parabéns pela nova sede, ficou linda!",improdutivo
+"Foi ótimo conhecer a equipe de vocês, todos muito receptivos.",improdutivo
+"Estamos muito satisfeitos com o atendimento recebido, obrigado!",improdutivo
+"Obrigado pela recepção calorosa ontem, nos sentimos em casa.",improdutivo
+"Obrigado por compartilhar o vídeo da palestra, foi inspirador.",improdutivo
+"Gostamos muito da apresentação realizada ontem, parabéns!",improdutivo
+Foi um prazer colaborar com vocês neste projeto.,improdutivo
+"Prezados, solicito a atualização do status da requisição #9823 enviada no dia 14/08.",produtivo
+Encaminho em anexo os documentos solicitados para análise e aprovação.,produtivo
+Favor revisar os valores da proposta comercial enviada ontem às 17h.,produtivo
+Estamos com dificuldades na integração da API de pagamentos e precisamos de suporte técnico.,produtivo
+Gostaria de confirmar se o treinamento previsto para sexta-feira será mantido.,produtivo
+Solicito a liberação de acesso ao sistema para o novo colaborador da área de vendas.,produtivo
+Encaminho os dados atualizados para emissão da nota fiscal referente ao serviço prestado.,produtivo
+Favor verificar o erro apresentado na tela de login do sistema ERP.,produtivo
+Estamos aguardando retorno sobre a solicitação de suporte enviada na semana passada.,produtivo
+Solicito a inclusão do cliente XPTO na base de dados conforme planilha anexa.,produtivo
+"Bom dia, passando apenas para desejar uma excelente semana a todos!",improdutivo
+"Precisamos revisar o relatório financeiro até amanhã, prioridade máxima.",produtivo
+Agendei reunião com o cliente para resolver pendências importantes.,produtivo
+"Segue o documento que você pediu para aprovação. Por favor, revise.",produtivo
+Atualizei a planilha de vendas com os números de hoje.,produtivo
+A entrega do projeto está prevista para sexta-feira. Confira os detalhes no anexo.,produtivo
+"Por favor, confirme se recebeu o orçamento enviado.",produtivo
+Precisamos finalizar a proposta antes do fim do dia.,produtivo
+Reunião de alinhamento marcada para quarta-feira às 14h.,produtivo
+Confira os ajustes no contrato e me envie seu feedback.,produtivo
+Solicito que revise os documentos anexos e devolva com comentários.,produtivo
+Não se esqueça de atualizar os status das tarefas no Trello.,produtivo
+Enviarei a versão final do relatório até às 17h.,produtivo
+"Por favor, encaminhe os dados do cliente até amanhã.",produtivo
+Atualize a apresentação com as informações mais recentes.,produtivo
+Agendei call com a equipe de marketing para discutir a campanha.,produtivo
+"Segue checklist de pendências do projeto, por favor revise.",produtivo
+É urgente responder ao e-mail do fornecedor ainda hoje.,produtivo
+Revisar os KPIs mensais e enviar relatório consolidado.,produtivo
+Confirme presença na reunião de estratégia da próxima segunda.,produtivo
+Finalize os ajustes do orçamento e envie para aprovação.,produtivo
+"Bom dia, espero que você esteja bem.",improdutivo
+Obrigado pelo envio.,improdutivo
+"Só passando para dizer oi, tudo bem?",improdutivo
+Achei interessante aquele post no LinkedIn.,improdutivo
+Vamos marcar algo qualquer dia desses.,improdutivo
+"Recebi seu email, obrigado.",improdutivo
+"Legal, gostei da notícia.",improdutivo
+Parabéns pelo resultado!,improdutivo
+"Vi o documento, parece bom.",improdutivo
+"Tudo certo por aqui, obrigado.",improdutivo
+Como você está?,improdutivo
+Bom final de semana!,improdutivo
+Espero que esteja aproveitando o feriado.,improdutivo
+Que bom que deu certo.,improdutivo
+"Recebi, valeu!",improdutivo
+Vamos conversar outro dia sobre isso.,improdutivo
+"Ok, entendido.",improdutivo
+Passando para avisar que estou ocupado.,improdutivo
+"Obrigado, vou ver isso depois.",improdutivo
+"Legal, qualquer novidade me avise.",improdutivo
+Vou olhar isso mais tarde.,improdutivo
+"Sem problemas, obrigado.",improdutivo
+"Beleza, combinado.",improdutivo
+"Oi, só queria saber como você está.",improdutivo
+"Bom dia, tudo bem?",improdutivo
+Recebi seu recado.,improdutivo
+Valeu pelo retorno.,improdutivo
+"Ótimo, gostei da ideia.",improdutivo
+Espero que tudo esteja bem.,improdutivo
+"Confirmado, obrigado.",improdutivo
+"Por favor, revise o relatório de despesas e me envie suas observações.",produtivo
+Atualize os contatos do cliente no CRM antes do fim do dia.,produtivo
+Solicito que envie a versão final do contrato até amanhã.,produtivo
+Agendei uma reunião para discutir o plano de ação.,produtivo
+Precisamos aprovar o orçamento ainda hoje.,produtivo
+Confira os resultados da pesquisa de satisfação e envie comentários.,produtivo
+Finalize o documento e envie para assinatura.,produtivo
+Envie a lista de materiais necessários para a próxima reunião.,produtivo
+Atualize o cronograma do projeto com as novas datas.,produtivo
+"Por favor, envie o resumo das atividades concluídas.",produtivo
+Verifique os KPIs do último mês e me envie o relatório.,produtivo
+Agende call com o fornecedor para resolver pendências.,produtivo
+Finalize a apresentação e compartilhe com a equipe.,produtivo
+Revise os detalhes do orçamento antes de enviar para aprovação.,produtivo
+Envie a documentação solicitada pelo cliente ainda hoje.,produtivo
+Prepare o plano de ação para a reunião de segunda-feira.,produtivo
+Atualize os dados da planilha de vendas e envie até o final do dia.,produtivo
+Confirme presença na reunião de alinhamento com o cliente.,produtivo
+Encaminhe os relatórios para todos os responsáveis.,produtivo
+"Por favor, envie feedback sobre a proposta até amanhã.",produtivo
+Organize os arquivos do projeto e envie o link compartilhado.,produtivo
+Verifique se todos os itens da lista foram concluídos.,produtivo
+Finalize a revisão do contrato e envie para assinatura.,produtivo
+Agende a reunião com a equipe de marketing para discutir a campanha.,produtivo
+Envie a planilha atualizada com os resultados da última semana.,produtivo
+Revise os indicadores de performance e envie comentários.,produtivo
+Confirme os detalhes do evento e envie a agenda final.,produtivo
+Finalize os ajustes no relatório e envie para aprovação.,produtivo
+Agende call de alinhamento com a equipe de desenvolvimento.,produtivo
+Envie o material de apresentação para todos os participantes.,produtivo
+Verifique os status das tarefas e atualize no sistema.,produtivo
+Prepare o relatório financeiro mensal e compartilhe com a diretoria.,produtivo
+Finalize o checklist do projeto e envie para revisão.,produtivo
+Encaminhe os documentos pendentes para assinatura do cliente.,produtivo
+Atualize a apresentação com os números mais recentes.,produtivo
+Revise o orçamento e envie para aprovação do gestor.,produtivo
+Agende reunião de revisão com a equipe de suporte.,produtivo
+Envie o resumo das atividades realizadas na semana passada.,produtivo
+Verifique o andamento das tarefas e reporte possíveis atrasos.,produtivo
+Finalize a análise de risco e envie para revisão.,produtivo
+Confirme se todos os documentos foram recebidos pelo cliente.,produtivo
+Envie a versão final do relatório para a equipe.,produtivo
+Revise os ajustes no projeto e envie comentários.,produtivo
+Agende call com o cliente para validar o plano de ação.,produtivo
+Atualize o relatório de despesas e compartilhe com o financeiro.,produtivo
+Finalize os preparativos para a apresentação da próxima semana.,produtivo
+Verifique os dados do sistema e envie relatório de inconsistências.,produtivo
+Confirme os detalhes da entrega com a equipe de logística.,produtivo
+Envie a pauta da reunião para todos os participantes.,produtivo
+Finalize o planejamento das atividades e compartilhe com a equipe.,produtivo
+Agende revisão do projeto com o gerente responsável.,produtivo
+Revise os indicadores de vendas e envie relatório consolidado.,produtivo
+Atualize o documento com as alterações sugeridas.,produtivo
+Envie os documentos para auditoria antes do prazo final.,produtivo
+Finalize a proposta comercial e encaminhe ao cliente.,produtivo
+Verifique o andamento dos projetos e envie resumo para a diretoria.,produtivo
+Confirme presença dos participantes na reunião de feedback.,produtivo
+Agende a reunião de alinhamento com todos os stakeholders.,produtivo
+Envie relatório de desempenho semanal para a equipe.,produtivo
+Revise as metas trimestrais e envie feedback.,produtivo
+Atualize a planilha com os dados de produção.,produtivo
+Finalize os relatórios de atividades e compartilhe com o gestor.,produtivo
+Verifique pendências do projeto e envie resumo atualizado.,produtivo
+Envie os arquivos finais para o cliente ainda hoje.,produtivo
+Agende reunião de acompanhamento com a equipe de desenvolvimento.,produtivo
+Revise os contratos pendentes e envie para aprovação.,produtivo
+Atualize a apresentação de resultados antes da reunião.,produtivo
+Finalize o planejamento financeiro do próximo trimestre.,produtivo
+Envie a pauta de discussão da reunião de hoje.,produtivo
+Confirme se todos os relatórios foram entregues corretamente.,produtivo
+Revise os indicadores de performance do mês e envie resumo.,produtivo
+Agende call para alinhar as prioridades do projeto.,produtivo
+Finalize a atualização do sistema e informe a equipe.,produtivo
+Envie os resultados da pesquisa de satisfação para o gestor.,produtivo
+Atualize os dados do projeto e compartilhe com todos os envolvidos.,produtivo
+Confirme aprovação dos documentos enviados ao cliente.,produtivo
+Finalize o plano de ação da próxima semana e envie à equipe.,produtivo
+Revise as pendências do relatório financeiro e envie comentários.,produtivo
+Agende a reunião de apresentação de resultados.,produtivo
+Envie a versão final do contrato para assinatura.,produtivo
+Atualize a planilha de metas e compartilhe com a diretoria.,produtivo
+Finalize o checklist de tarefas e envie para revisão.,produtivo
+Verifique se todos os e-mails foram respondidos e envie resumo.,produtivo
+Agende call de alinhamento com a equipe de suporte técnico.,produtivo
+Envie relatório de desempenho individual para cada membro da equipe.,produtivo
+Revise a documentação do projeto antes da entrega final.,produtivo
+Atualize os indicadores de vendas e envie relatório consolidado.,produtivo
+Finalize a apresentação de marketing e compartilhe com a equipe.,produtivo
+Confirme se todos os documentos foram assinados pelo cliente.,produtivo
+Envie resumo das reuniões realizadas durante a semana.,produtivo
+Agende reunião de feedback com a equipe de projeto.,produtivo
+Finalize o relatório de auditoria interna e envie à diretoria.,produtivo
+Revise os dados do sistema e envie relatório de inconsistências.,produtivo
+Atualize o plano de ação com os feedbacks recebidos.,produtivo
+Envie o documento atualizado para todos os participantes.,produtivo
+Confirme presença dos convidados na reunião de lançamento.,produtivo
+Finalize os ajustes no contrato e encaminhe ao cliente.,produtivo
+Agende a próxima reunião de planejamento estratégico.,produtivo
+Revise a planilha de despesas e envie relatório consolidado.,produtivo
+Atualize o cronograma de atividades e compartilhe com a equipe.,produtivo
+Envie os relatórios finais para análise da diretoria.,produtivo
+Finalize o planejamento das próximas tarefas e compartilhe.,produtivo
+Confirme envio dos documentos ao departamento jurídico.,produtivo
+"Por favor, revise o relatório financeiro e envie suas observações.",produtivo
+Atualize os contatos do cliente no CRM até o final do dia.,produtivo
+Envie a versão final do contrato para aprovação.,produtivo
+Agende reunião para discutir o plano de ação do projeto.,produtivo
+Solicito envio dos relatórios trimestrais para a diretoria.,produtivo
+Revise o orçamento antes de enviar para aprovação.,produtivo
+Prepare os slides da reunião de segunda-feira.,produtivo
+Atualize a planilha de metas com os números mais recentes.,produtivo
+Finalize os ajustes no relatório de marketing.,produtivo
+Envie resumo das atividades concluídas durante a semana.,produtivo
+Verifique os KPIs e envie relatório para a gestão.,produtivo
+Agende call com o fornecedor para alinhamento das entregas.,produtivo
+Confirme presença na reunião de alinhamento da equipe.,produtivo
+Atualize os dados do projeto e compartilhe com todos.,produtivo
+Finalize checklist de auditoria e envie para análise.,produtivo
+Envie os resultados da pesquisa de satisfação ao gestor.,produtivo
+Revise os contratos pendentes e encaminhe para assinatura.,produtivo
+Prepare relatório financeiro trimestral e compartilhe com diretoria.,produtivo
+Agende reunião de feedback com os colaboradores.,produtivo
+Finalize a versão final do documento de planejamento.,produtivo
+Atualize a planilha de produção diária.,produtivo
+Revise indicadores de vendas e envie relatório consolidado.,produtivo
+Finalize a apresentação de marketing e compartilhe com o time.,produtivo
+Envie pauta da reunião para todos os participantes.,produtivo
+Agende call de acompanhamento do projeto em andamento.,produtivo
+Revise o planejamento financeiro e envie resumo consolidado.,produtivo
+Atualize cronograma de atividades e compartilhe com equipe.,produtivo
+Finalize checklist do projeto e envie para revisão.,produtivo
+Envie relatório de desempenho individual de cada colaborador.,produtivo
+Prepare material de treinamento para os novos funcionários.,produtivo
+Revise relatório de auditoria interna antes da entrega.,produtivo
+Finalize o plano de ação da próxima semana e compartilhe.,produtivo
+Agende reunião de revisão do projeto com a equipe.,produtivo
+Atualize planilha de metas e compartilhe com a diretoria.,produtivo
+Envie versão final do contrato para assinatura.,produtivo
+Revise indicadores de performance e envie relatório consolidado.,produtivo
+Finalize planejamento estratégico para o próximo trimestre.,produtivo
+Confirme presença na reunião de estratégia do time.,produtivo
+Atualize a planilha de despesas e envie relatório consolidado.,produtivo
+Finalize ajustes no orçamento e encaminhe para aprovação.,produtivo
+Agende call para alinhar prioridades do projeto.,produtivo
+Revise dados do sistema e envie relatório de inconsistências.,produtivo
+Envie versão atualizada do documento para todos os envolvidos.,produtivo
+Finalize checklist de atividades semanais.,produtivo
+Confirme envio de relatórios semanais aos responsáveis.,produtivo
+Atualize cronograma do projeto com os dados mais recentes.,produtivo
+Revise plano de ação e compartilhe feedback com equipe.,produtivo
+Finalize relatório financeiro trimestral e envie para diretoria.,produtivo
+Agende reunião de alinhamento com todos os stakeholders.,produtivo
+Envie relatório de progresso do projeto para a diretoria.,produtivo
+Revise documentos anexos e envie comentários.,produtivo
+Finalize ajustes no relatório financeiro e compartilhe.,produtivo
+Atualize planilha de indicadores e envie relatório consolidado.,produtivo
+Confirme aprovação dos documentos enviados ao departamento jurídico.,produtivo
+Prepare relatório de desempenho semanal para a equipe.,produtivo
+Revise contrato antes de enviar para assinatura do cliente.,produtivo
+Envie materiais necessários para a reunião de amanhã.,produtivo
+Finalize versão final da apresentação de resultados.,produtivo
+Agende call de acompanhamento com a equipe de desenvolvimento.,produtivo
+Atualize dados de vendas e compartilhe com diretoria.,produtivo
+Revise checklist de tarefas concluídas e envie feedback.,produtivo
+Finalize relatórios pendentes e envie para aprovação.,produtivo
+Envie resumo das pendências da semana para o gestor.,produtivo
+Atualize planilha de metas trimestrais e compartilhe com time.,produtivo
+Finalize planejamento das próximas tarefas e compartilhe com equipe.,produtivo
+Revise documentos pendentes e envie comentários.,produtivo
+Envie relatório atualizado do projeto para a diretoria.,produtivo
+Agende reunião de alinhamento do cronograma de atividades.,produtivo
+Revise indicadores financeiros e compartilhe resumo consolidado.,produtivo
+Envie versão final do relatório financeiro à diretoria.,produtivo
+Atualize cronograma de produção e compartilhe com equipe.,produtivo
+Confirme envio dos arquivos finais para o cliente.,produtivo
+Revise plano de ação e envie feedback consolidado.,produtivo
+Finalize ajustes no contrato e envie para aprovação.,produtivo
+Agende reunião de acompanhamento da equipe de marketing.,produtivo
+Envie relatório de desempenho individual para cada colaborador.,produtivo
+Revise documentos do projeto antes da entrega final.,produtivo
+Atualize indicadores de vendas e compartilhe com diretoria.,produtivo
+Finalize versão final da apresentação e envie à equipe.,produtivo
+Confirme aprovação de todos os documentos enviados.,produtivo
+Envie resumo das reuniões realizadas para todos os participantes.,produtivo
+Revise checklist de atividades e compartilhe com gestor.,produtivo
+Finalize relatório de auditoria e envie à diretoria.,produtivo
+Atualize planilha de metas e compartilhe com todos os envolvidos.,produtivo
+Envie materiais de treinamento para novos colaboradores.,produtivo
+Revise documentos do projeto e compartilhe feedback.,produtivo
+Finalize planejamento financeiro da próxima semana.,produtivo
+Agende reunião de revisão com equipe de desenvolvimento.,produtivo
+Envie relatório de progresso semanal para diretoria.,produtivo
+Atualize cronograma do projeto e compartilhe com time.,produtivo
+Finalize apresentação de marketing e compartilhe com equipe.,produtivo
+Envie resumo das tarefas realizadas durante a semana.,produtivo
+Agende reunião de alinhamento para discussão do projeto.,produtivo
+Revise indicadores financeiros e compartilhe relatório consolidado.,produtivo
+Finalize checklist de tarefas semanais.,produtivo
+Atualize planilha de produção e compartilhe com equipe.,produtivo
+Envie versão final do relatório à diretoria.,produtivo
+Revise documentos de planejamento e compartilhe feedback.,produtivo
+Finalize planejamento estratégico da próxima semana.,produtivo
+Agende call de acompanhamento com equipe de suporte.,produtivo
+Envie relatório financeiro trimestral para análise da diretoria.,produtivo
+Atualize planilha com os números mais recentes de vendas.,produtivo
+Revise checklist de atividades e envie comentários.,produtivo
+Finalize versão final da apresentação e compartilhe com todos.,produtivo
+Agende reunião de revisão do cronograma de atividades.,produtivo
+Revise documentos pendentes e compartilhe feedback.,produtivo
+"Oi, como foi seu fim de semana?",improdutivo
+"Bom dia, espero que esteja bem.",improdutivo
+Parabéns pela conquista!,improdutivo
+Espero que tenha aproveitado as férias.,improdutivo
+Só queria dar um alô rápido.,improdutivo
+Obrigado pelo recado.,improdutivo
+"Legal, gostei muito!",improdutivo
+"Bom dia, tudo certo por aí?",improdutivo
+"Valeu, até mais.",improdutivo
+"Oi, só passando para avisar.",improdutivo
+Espero que esteja tudo bem com você.,improdutivo
+Que bom que deu tudo certo!,improdutivo
+"Obrigado, até mais.",improdutivo
+"Beleza, nos falamos depois.",improdutivo
+"Legal, gostei do post.",improdutivo
+"Oi, tudo tranquilo?",improdutivo
+Valeu pelo apoio.,improdutivo
+Passando para cumprimentar.,improdutivo
+"Bom dia, espero que esteja tudo certo.",improdutivo
+Obrigado pelo retorno.,improdutivo
+"Oi, só para avisar algo rápido.",improdutivo
+Que bom que você conseguiu!,improdutivo
+"Valeu, vamos conversando.",improdutivo
+"Oi, tudo bem com você?",improdutivo
+"Obrigado, estou verificando.",improdutivo
+"Legal, gostei da ideia que você compartilhou.",improdutivo
+"Bom dia, espero que seu dia esteja bem.",improdutivo
+Só queria te dar um oi.,improdutivo
+"Valeu, até mais tarde.",improdutivo
+"Oi, como você está?",improdutivo
+"Obrigado, depois conversamos.",improdutivo
+"Que bom, fico feliz por você.",improdutivo
+Passando só para cumprimentar.,improdutivo
+"Oi, tudo certo por aí?",improdutivo
+"Valeu, qualquer coisa me avise.",improdutivo
+"Bom dia, espero que esteja tudo bem.",improdutivo
+Obrigado pelo aviso.,improdutivo
+"Oi, tudo tranquilo por aí?",improdutivo
+"Legal, gostei do que você compartilhou.",improdutivo
+"Oi, só passando para dizer oi.",improdutivo
+"Obrigado, depois verifico.",improdutivo
+Que bom que deu certo!,improdutivo
+Passando para dar um alô rápido.,improdutivo
+"Valeu, vamos falando.",improdutivo
+"Bom dia, espero que esteja aproveitando o dia.",improdutivo
+"Que bom, fico feliz!",improdutivo
+"Valeu, qualquer novidade me avise.",improdutivo
+"Oi, tudo certo?",improdutivo
+Passando para cumprimentar rapidamente.,improdutivo
+"Valeu, depois conversamos.",improdutivo
+"Oi, só queria dar um alô.",improdutivo
+"Valeu, nos falamos depois.",improdutivo

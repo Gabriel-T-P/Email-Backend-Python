@@ -1,0 +1,28 @@
+# Ambiente virtual
+venv_email/
+venv/
+
+# Arquivos de cache do Python
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+*.DS_Store
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Ambiente/variáveis de configuração
+.env
+
+# Modelos e dados treinados
+data/models/*.pkl
+data/models/*.joblib
